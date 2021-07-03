@@ -49,4 +49,4 @@ $ python3 indiaNewsNotifier.py
 ```
 
 ## Output
-![Screenshot](TelegramNews.jpg)
+![Screenshot](TelegramNews.jpeg)
