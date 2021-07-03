@@ -27,7 +27,7 @@ ChatIds= {
 }
 ```
 
-### Get the District Ids
+### Get the API Key from newsAPI
 The source for the news is newsAPI. You can refer to [newsAPI](https://newsapi.org/) for more API support. You need to have a newsAPI API key to call the APIs . Generation of token can be done [here](https://newsapi.org/account)
 
 
